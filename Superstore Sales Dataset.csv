@@ -1,0 +1,18 @@
+CREATE DATABASE Final_project;
+USE final_project;
+
+CREATE TABLE mytable (
+  id INT,
+  name VARCHAR(255),
+  age INT
+);
+
+
+
+LOAD DATA INFILE "E:\Final project\Superstore Sales Dataset.csv"
+INTO TABLE mytable
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
+
