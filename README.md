@@ -36,11 +36,26 @@ In this project, I explored the Superstore dataset using:
 
 ### Power BI Dashboard Sample
 
-![Superstore Dashboard 1](superstore%20dashboard_1.png)  
-![Superstore Dashboard 2](superstore%20dashboard_2.png)
+#### 🧾 Dashboard 1 Overview
 
+![Superstore Dashboard 1](superstore%20dashboard_1.png) 
+This dashboard provides a high-level overview of overall performance:
+
+- **Total Sales:** 728.7K  
+- **Units Sold:** 380  
+- 📈 **Monthly Sales Trend:** Sum of sales by month  
+- 📊 **Category Performance:** Sum of sales by category  
+- 🗺️ **Top States by Sales:** Total sales by U.S. state  
 
 ---
 
-## 📁 Folder Structure
+#### 🧾 Dashboard 2 Overview
+![Superstore Dashboard 2](superstore%20dashboard_2.png)
+This dashboard dives deeper into customer and segment insights:
+
+- 👥 **Sales by Segment:** Sum of sales categorized by customer segments  
+- 🌍 **Regional Sales:** Total sales by region  
+- 🧑‍💼 **Customer Insights:** Sum of sales by individual customer names  
+
+---
 
