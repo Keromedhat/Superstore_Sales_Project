@@ -36,8 +36,9 @@ In this project, I explored the Superstore dataset using:
 
 ### Power BI Dashboard Sample
 
-![Superstore Dashboard 1](superstore_dashboard_1.png)
-![Superstore Dashboard 2](superstore_dashboard_2.png)
+![Superstore Dashboard 1](superstore%20dashboard_1.png)  
+![Superstore Dashboard 2](superstore%20dashboard_2.png)
+
 
 ---
 
