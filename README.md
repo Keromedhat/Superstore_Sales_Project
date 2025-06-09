@@ -22,13 +22,7 @@ In this project, I explored the Superstore dataset using:
 - Analyze shipping performance and profitability.
 - Discover insights to improve business strategy.
 
----
 
-## 🧰 Tools & Technologies
-
-- **SQL**: Data querying and answering business questions.
-- **Python**: Data cleaning, wrangling, and visualization.
-- **Power BI**: Dashboard development and interactive reporting.
 
 ---
 
@@ -58,4 +52,10 @@ This dashboard dives deeper into customer and segment insights:
 - 🧑‍💼 **Customer Insights:** Sum of sales by individual customer names  
 
 ---
+## 🧰 Tools & Technologies
 
+- **SQL**: Data querying and answering business questions.
+- **Python**: Data cleaning, wrangling, and visualization.
+- **Power BI**: Dashboard development and interactive reporting.
+
+---
