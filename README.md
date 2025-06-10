@@ -6,13 +6,6 @@
 
 This project aims to analyze and visualize the performance of a retail superstore using real-world sales data. The analysis helps identify trends, key performance indicators, and customer behavior to drive informed business decisions.
 
----
-
-## 🚀 Tools & Technologies Used
-
-- **SQL** – For data extraction and answering analytical sales questions  
-- **Python (Pandas, Matplotlib, Seaborn)** – For data cleaning, preprocessing, and visualization  
-- **Power BI** – For building interactive, dynamic dashboards  
 
 ---
 
@@ -80,4 +73,9 @@ Ideal for the marketing and customer success teams to understand where and to wh
 - Run targeted campaigns for high-spending segments and customers
 
 ---
+## 🚀 Tools & Technologies Used
+
+- **SQL** – For data extraction and answering analytical sales questions  
+- **Python (Pandas, Matplotlib, Seaborn)** – For data cleaning, preprocessing, and visualization  
+- **Power BI** – For building interactive, dynamic dashboards  
 
